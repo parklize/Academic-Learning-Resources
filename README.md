@@ -8,6 +8,7 @@
 * [Own your PhD project: How to take charge of your research](https://www.youtube.com/watch?v=q_rEqcO7hMY&feature=emb_logo)
 * [PhD advice part in Interview with Deep Learning and NLP Researcher: Sebastian Ruder](https://hackernoon.com/interview-with-deep-learning-and-nlp-researcher-sebastian-ruder-91ddaf473c4b)
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+* [How to supervise your supervisor](https://www.slideshare.net/fabien_gandon/how-to-supervise-your-supervisor) - Fabien Gandon
 * [내가 대학원에 들어왔을 때 알았더라면 좋았을 연구 노하우 (개정증보판) (UST 대학원 신입생 OT 강연)](https://www.slideshare.net/pelexus/2013-ust-ot)
 
 <br/>
@@ -31,6 +32,7 @@
 <br/>
 
 # How to do research
+* [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Richard Hamming
 * [How to read a paper](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
 * [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm)
 * [Bad research questions](https://patthomson.net/2018/03/19/writing-bad-research-questions/)
@@ -41,6 +43,7 @@
 
 # How to develop your academic career
 * [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position)
+* [How to write a killer cover letter for a postdoctoral application](https://www.asbmb.org/asbmb-today/careers/091713/writing-cover-letter-for-postdoctoral-application)
 * [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/)
 
 
