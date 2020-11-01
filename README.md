@@ -9,6 +9,8 @@
 
 # Writing
 * [Converting Undergraduate Projects into Research Papers](https://alisonenergy.com/images/Converting%20FYPs%20into%20Research%20Papers.pdf)
+* [How to get your paper accepted at IM/NOMS](https://www.scss.tcd.ie/Owen.Conlan/CS7062/3_HowToWriteAPaper2009-06-03-IM-How_to.pdf)
+* [How to Write a Good Systems Paper](http://www.sslab.ics.keio.ac.jp/apsys2015/assets/howto-systems.pdf)
 * [Coping with Rejection](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
 * [A template for responding to peer reviewer comments](https://www.editage.com/assets/files/english/guidelinks/response-to-peer-reviewer-comments-template.pdf)
 * [Tips for open-sourcing research code](Tips for open-sourcing research code)
