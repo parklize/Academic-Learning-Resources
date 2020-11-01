@@ -10,15 +10,20 @@
 # Writing
 * [Converting Undergraduate Projects into Research Papers](https://alisonenergy.com/images/Converting%20FYPs%20into%20Research%20Papers.pdf)
 * [Coping with Rejection](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
+* [A template for responding to peer reviewer comments](https://www.editage.com/assets/files/english/guidelinks/response-to-peer-reviewer-comments-template.pdf)
+* [Tips for open-sourcing research code](Tips for open-sourcing research code)
 
 <br/>
 
 # Reviewing
+* [Reviewing guidelines for PC members](https://emeryblogger.com/2018/03/22/reviewing-guidelines-for-program-committee-members/)
 * [How to write a high quality review for conference?](https://parklize.blogspot.com/2019/01/how-to-write-high-quality-review-for.html)
+
 
 <br/>
 
 # Career Development
+* [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position)
 * [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/)
 
 
