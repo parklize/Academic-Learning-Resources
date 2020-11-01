@@ -1,4 +1,5 @@
 # How to earn that PhD
+* [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 * [Modest Advice for New Graduate Students](https://medium.com/@dorsaamir/modest-advice-for-new-graduate-students-b0be6b8dbc22)
 * [What makes a great PhD supervisor?](https://isg.beel.org/blog/2018/01/20/what-makes-a-great-phd-supervisor-for-recommender-systems-and-machine-learning-research/)
 * [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
