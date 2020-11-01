@@ -1,4 +1,4 @@
-# PhD Resources
+# How to earn that PhD
 * [Modest Advice for New Graduate Students](https://medium.com/@dorsaamir/modest-advice-for-new-graduate-students-b0be6b8dbc22)
 * [What makes a great PhD supervisor?](https://isg.beel.org/blog/2018/01/20/what-makes-a-great-phd-supervisor-for-recommender-systems-and-machine-learning-research/)
 * [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
@@ -11,7 +11,7 @@
 
 <br/>
 
-# Writing
+# How to write
 * [Converting Undergraduate Projects into Research Papers](https://alisonenergy.com/images/Converting%20FYPs%20into%20Research%20Papers.pdf)
 * [How to get your paper accepted at IM/NOMS](https://www.scss.tcd.ie/Owen.Conlan/CS7062/3_HowToWriteAPaper2009-06-03-IM-How_to.pdf)
 * [How to Write a Good Systems Paper](http://www.sslab.ics.keio.ac.jp/apsys2015/assets/howto-systems.pdf)
@@ -22,20 +22,23 @@
 
 <br/>
 
-# Reviewing
+# How to review
 * [Reviewing guidelines for PC members](https://emeryblogger.com/2018/03/22/reviewing-guidelines-for-program-committee-members/)
 * [How to write a high quality review for conference?](https://parklize.blogspot.com/2019/01/how-to-write-high-quality-review-for.html)
+* [How not to review a paper](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf)
 
 <br/>
 
-# Research
+# How to do research
+* [How to read a paper](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
 * [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm)
 * [Bad research questions](https://patthomson.net/2018/03/19/writing-bad-research-questions/)
+* [怎么做科研和写论文](http://www.nlpr.ia.ac.cn/liucl/%E6%80%8E%E6%A0%B7%E5%81%9A%E7%A7%91%E7%A0%94%E5%92%8C%E5%86%99%E8%AE%BA%E6%96%87-%E5%88%98%E6%88%90%E6%9E%97.pdf)
 
 
 <br/>
 
-# Career Development
+# How to develop your academic career
 * [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position)
 * [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/)
 
