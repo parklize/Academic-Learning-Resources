@@ -5,7 +5,9 @@
 * [Syllabus for Eric's PhD students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
 * [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
 * [Secrets of Successful Research Students](https://www.slideshare.net/Aryce11/secrets-of-successful-research-students)
+* [Own your PhD project: How to take charge of your research](https://www.youtube.com/watch?v=q_rEqcO7hMY&feature=emb_logo)
 * [PhD advice part in Interview with Deep Learning and NLP Researcher: Sebastian Ruder](https://hackernoon.com/interview-with-deep-learning-and-nlp-researcher-sebastian-ruder-91ddaf473c4b)
+* [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 
 <br/>
 
@@ -28,6 +30,7 @@
 
 # Research
 * [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm)
+* [Bad research questions](https://patthomson.net/2018/03/19/writing-bad-research-questions/)
 
 
 <br/>
