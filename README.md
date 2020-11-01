@@ -13,7 +13,7 @@
 * [How to Write a Good Systems Paper](http://www.sslab.ics.keio.ac.jp/apsys2015/assets/howto-systems.pdf)
 * [Coping with Rejection](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
 * [A template for responding to peer reviewer comments](https://www.editage.com/assets/files/english/guidelinks/response-to-peer-reviewer-comments-template.pdf)
-* [Tips for open-sourcing research code](Tips for open-sourcing research code)
+* [Tips for open-sourcing research code](https://www.linkedin.com/pulse/tips-open-sourcing-research-code-thomas-wolf/?trackingId=Qr%2BJQ1sCOiDZGxzkSkjZGw%3D%3D)
 
 <br/>
 
