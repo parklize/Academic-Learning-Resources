@@ -8,6 +8,7 @@
 * [Own your PhD project: How to take charge of your research](https://www.youtube.com/watch?v=q_rEqcO7hMY&feature=emb_logo)
 * [PhD advice part in Interview with Deep Learning and NLP Researcher: Sebastian Ruder](https://hackernoon.com/interview-with-deep-learning-and-nlp-researcher-sebastian-ruder-91ddaf473c4b)
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+* [내가 대학원에 들어왔을 때 알았더라면 좋았을 연구 노하우 (개정증보판) (UST 대학원 신입생 OT 강연)](https://www.slideshare.net/pelexus/2013-ust-ot)
 
 <br/>
 
