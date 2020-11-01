@@ -1,3 +1,10 @@
+This is a curated list of resources related to PhD, doing research, writing, doing peer reviews, and career development, etc. There are several ways you can engage with the list of resources if you like it.
+* **Star** the repo
+* **Share** the list 
+* **Suggest** resources that you liked a lot but missing from the list
+
+
+
 # How to do that PhD
 * [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 * [Modest Advice for New Graduate Students](https://medium.com/@dorsaamir/modest-advice-for-new-graduate-students-b0be6b8dbc22)
