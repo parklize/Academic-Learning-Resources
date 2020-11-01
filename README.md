@@ -15,6 +15,7 @@
 
 # How to write
 * [Converting Undergraduate Projects into Research Papers](https://alisonenergy.com/images/Converting%20FYPs%20into%20Research%20Papers.pdf)
+* [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc)
 * [How to get your paper accepted at IM/NOMS](https://www.scss.tcd.ie/Owen.Conlan/CS7062/3_HowToWriteAPaper2009-06-03-IM-How_to.pdf)
 * [How to Write a Good Systems Paper](http://www.sslab.ics.keio.ac.jp/apsys2015/assets/howto-systems.pdf)
 * [How to write a good system paper](http://prof.ict.ac.cn/DComputing/uploads/2013/DC_1_2_how_to_write_a_good_system_paper.pdf)
@@ -46,6 +47,7 @@
 <br/>
 
 # How to develop your academic career
+* [How to Have a Bad Career in Research/Academia Pre-PhD and Post-PhD (including How to Give a Bad Talk)](https://www.youtube.com/watch?v=Pbdo-ozuOug) - EECS Colloquium - Prof. David Patterson
 * [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position)
 * [How to write a killer cover letter for a postdoctoral application](https://www.asbmb.org/asbmb-today/careers/091713/writing-cover-letter-for-postdoctoral-application)
 * [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/)
