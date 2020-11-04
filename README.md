@@ -8,7 +8,7 @@ There are several ways you can engage with the list of resources if you like it.
 <br/>
 
 # How to apply PhD
-[Ph.D. Applications:FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) - Noah Smith
+* [Ph.D. Applications:FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) - Noah Smith
 
 <br/>
 
