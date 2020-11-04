@@ -3,7 +3,7 @@ This is a curated list of resources related to PhD, doing research, writing, doi
 There are several ways you can engage with the list of resources if you like it.
 * **Star** the repo
 * **Share** the list 
-* **Suggest** resources that you liked a lot but missing from the list
+* **Suggest** resources that you liked a lot but are missing from the list
 
 <br/>
 
