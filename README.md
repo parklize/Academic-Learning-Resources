@@ -7,6 +7,11 @@ There are several ways you can engage with the list of resources if you like it.
 
 <br/>
 
+# How to apply PhD
+[Ph.D. Applications:FAQ](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit) - Noah Smith
+
+<br/>
+
 # How to do that PhD
 * [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 * [Modest Advice for New Graduate Students](https://medium.com/@dorsaamir/modest-advice-for-new-graduate-students-b0be6b8dbc22)
