@@ -46,7 +46,7 @@ There are several ways you can engage with the list of resources if you like it.
 <br/>
 
 # How to do research
-* [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw) - Richard Hamming
+* [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [[Video]](https://www.youtube.com/watch?v=a1zDuOPkMSw) - Richard Hamming
 * [How to read a paper](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
 * [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm)
 * [Bad research questions](https://patthomson.net/2018/03/19/writing-bad-research-questions/)
