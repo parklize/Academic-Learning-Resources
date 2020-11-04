@@ -4,6 +4,7 @@ There are several ways you can engage with the list of resources if you like it.
 * **Star** the repo
 * **Share** the list 
 * **Suggest** resources that you liked a lot but are missing from the list
+* **Point out** broken links of the resources 
 
 <br/>
 
