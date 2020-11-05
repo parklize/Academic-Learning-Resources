@@ -14,12 +14,12 @@ There are several ways you can engage with the list of resources if you like it.
 <br/>
 
 # How to do that PhD
-* [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
-* [Modest Advice for New Graduate Students](https://medium.com/@dorsaamir/modest-advice-for-new-graduate-students-b0be6b8dbc22)
-* [What makes a great PhD supervisor?](https://isg.beel.org/blog/2018/01/20/what-makes-a-great-phd-supervisor-for-recommender-systems-and-machine-learning-research/)
-* [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
-* [Syllabus for Eric's PhD students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
-* [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
+* [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) - Matt Might
+* [Modest Advice for New Graduate Students](https://medium.com/@dorsaamir/modest-advice-for-new-graduate-students-b0be6b8dbc22) - Dorsa Amir
+* [What makes a great PhD supervisor?](https://isg.beel.org/blog/2018/01/20/what-makes-a-great-phd-supervisor-for-recommender-systems-and-machine-learning-research/) - Joeran Beel
+* [Advice for early-stage Ph.D. students](https://pg.ucsd.edu/early-stage-PhD-advice.htm) - Philip Guo
+* [Syllabus for Eric's PhD students](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) - Eric Gilbert
+* [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf) - Mark Dredze & Hanna M. Wallach
 * [Secrets of Successful Research Students](https://www.slideshare.net/Aryce11/secrets-of-successful-research-students)
 * [Own your PhD project: How to take charge of your research](https://www.youtube.com/watch?v=q_rEqcO7hMY&feature=emb_logo)
 * [PhD advice part in Interview with Deep Learning and NLP Researcher: Sebastian Ruder](https://hackernoon.com/interview-with-deep-learning-and-nlp-researcher-sebastian-ruder-91ddaf473c4b)
@@ -63,9 +63,9 @@ There are several ways you can engage with the list of resources if you like it.
 <br/>
 
 # How to develop your academic career
-* [How to Have a Bad Career in Research/Academia Pre-PhD and Post-PhD (including How to Give a Bad Talk)](https://www.youtube.com/watch?v=Pbdo-ozuOug) - EECS Colloquium - Prof. David Patterson
+* [How to Have a Bad Career in Research/Academia Pre-PhD and Post-PhD (including How to Give a Bad Talk)](https://www.youtube.com/watch?v=Pbdo-ozuOug) - EECS Colloquium - David Patterson
 * [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position)
 * [How to write a killer cover letter for a postdoctoral application](https://www.asbmb.org/asbmb-today/careers/091713/writing-cover-letter-for-postdoctoral-application)
-* [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/)
+* [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/) - John Breslin
 
 
