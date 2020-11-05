@@ -32,23 +32,23 @@ Nicole Kringos
 
 # How to write
 * [Converting Undergraduate Projects into Research Papers](https://alisonenergy.com/images/Converting%20FYPs%20into%20Research%20Papers.pdf)
-* [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc)
-* [How to get your paper accepted at IM/NOMS](https://www.scss.tcd.ie/Owen.Conlan/CS7062/3_HowToWriteAPaper2009-06-03-IM-How_to.pdf)
-* [How to Write a Good Systems Paper](http://www.sslab.ics.keio.ac.jp/apsys2015/assets/howto-systems.pdf)
-* [How to write a good system paper](http://prof.ict.ac.cn/DComputing/uploads/2013/DC_1_2_how_to_write_a_good_system_paper.pdf)
-* [Why I gave your paper a Strong Reject](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html)
-* [Why I gave your paper a Strong Accept](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-accept.html)
+* [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc) - Simon Peyton Jones
+* [How to get your paper accepted at IM/NOMS](https://www.scss.tcd.ie/Owen.Conlan/CS7062/3_HowToWriteAPaper2009-06-03-IM-How_to.pdf) - Aiko Pras
+* [How to Write a Good Systems Paper](http://www.sslab.ics.keio.ac.jp/apsys2015/assets/howto-systems.pdf) - Gernot Heiser 
+* [How to write a good system paper](http://prof.ict.ac.cn/DComputing/uploads/2013/DC_1_2_how_to_write_a_good_system_paper.pdf) - Roy Levin & David D. Redell (詹剑锋讲解)
+* [Why I gave your paper a Strong Reject](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html) - Matt Welsh
+* [Why I gave your paper a Strong Accept](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-accept.html) - Matt Welsh
 * [Coping with Rejection](https://www.loom.com/embed/89bfb10668d94595b265a156126474a5)
 * [A template for responding to peer reviewer comments](https://www.editage.com/assets/files/english/guidelinks/response-to-peer-reviewer-comments-template.pdf)
-* [Responding to peer review](http://matt.might.net/articles/peer-review-rebuttals/)
-* [Tips for open-sourcing research code](https://www.linkedin.com/pulse/tips-open-sourcing-research-code-thomas-wolf/?trackingId=Qr%2BJQ1sCOiDZGxzkSkjZGw%3D%3D)
+* [Responding to peer review](http://matt.might.net/articles/peer-review-rebuttals/) - Matt Might
+* [Tips for open-sourcing research code](https://www.linkedin.com/pulse/tips-open-sourcing-research-code-thomas-wolf/?trackingId=Qr%2BJQ1sCOiDZGxzkSkjZGw%3D%3D) - Thomas Wolf
 
 <br/>
 
 # How to review
-* [Reviewing guidelines for PC members](https://emeryblogger.com/2018/03/22/reviewing-guidelines-for-program-committee-members/)
-* [How to write a high quality review for conference?](https://parklize.blogspot.com/2019/01/how-to-write-high-quality-review-for.html)
-* [How not to review a paper](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf)
+* [Reviewing guidelines for PC members](https://emeryblogger.com/2018/03/22/reviewing-guidelines-for-program-committee-members/) - Emery Berger
+* [How to write a high quality review for conference?](https://parklize.blogspot.com/2019/01/how-to-write-high-quality-review-for.html) - Noah A. Smith
+* [How not to review a paper](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf) - Graham Cormode
 
 <br/>
 
@@ -58,15 +58,15 @@ Nicole Kringos
 * [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm)
 * [Bad research questions](https://patthomson.net/2018/03/19/writing-bad-research-questions/)
 * [怎么做科研和写论文](http://www.nlpr.ia.ac.cn/liucl/%E6%80%8E%E6%A0%B7%E5%81%9A%E7%A7%91%E7%A0%94%E5%92%8C%E5%86%99%E8%AE%BA%E6%96%87-%E5%88%98%E6%88%90%E6%9E%97.pdf)
-* [“25년 전의 나에게” (대학원 신입생이 꼭 알아야할 연구실 생활의 팁)](http://an.kaist.ac.kr/~sbmoon/talk/2015/150329_GradSchoolOrientation.pdf)
+* [“25년 전의 나에게” (대학원 신입생이 꼭 알아야할 연구실 생활의 팁)](http://an.kaist.ac.kr/~sbmoon/talk/2015/150329_GradSchoolOrientation.pdf) - Michael J. Hanson & Dylan J. McNamee
 
 
 <br/>
 
 # How to develop your academic career
 * [How to Have a Bad Career in Research/Academia Pre-PhD and Post-PhD (including How to Give a Bad Talk)](https://www.youtube.com/watch?v=Pbdo-ozuOug) - EECS Colloquium - David Patterson
-* [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position)
-* [How to write a killer cover letter for a postdoctoral application](https://www.asbmb.org/asbmb-today/careers/091713/writing-cover-letter-for-postdoctoral-application)
+* [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position) - Johanna Greeson
+* [How to write a killer cover letter for a postdoctoral application](https://www.asbmb.org/asbmb-today/careers/091713/writing-cover-letter-for-postdoctoral-application) - Bill Sullivan
 * [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/) - John Breslin
 
 
