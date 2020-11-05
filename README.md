@@ -54,11 +54,11 @@ Nicole Kringos
 
 # How to do research
 * [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [[Video]](https://www.youtube.com/watch?v=a1zDuOPkMSw) - Richard Hamming
-* [How to read a paper](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
-* [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm)
-* [Bad research questions](https://patthomson.net/2018/03/19/writing-bad-research-questions/)
-* [怎么做科研和写论文](http://www.nlpr.ia.ac.cn/liucl/%E6%80%8E%E6%A0%B7%E5%81%9A%E7%A7%91%E7%A0%94%E5%92%8C%E5%86%99%E8%AE%BA%E6%96%87-%E5%88%98%E6%88%90%E6%9E%97.pdf)
-* [“25년 전의 나에게” (대학원 신입생이 꼭 알아야할 연구실 생활의 팁)](http://an.kaist.ac.kr/~sbmoon/talk/2015/150329_GradSchoolOrientation.pdf) - Michael J. Hanson & Dylan J. McNamee
+* [How to read a paper](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf) - Michael J. Hanson & Dylan J. McNamee
+* [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm) - - Philip Guo
+* [Bad research questions](https://patthomson.net/2018/03/19/writing-bad-research-questions/) - Pat Thomson
+* [怎么做科研和写论文](http://www.nlpr.ia.ac.cn/liucl/%E6%80%8E%E6%A0%B7%E5%81%9A%E7%A7%91%E7%A0%94%E5%92%8C%E5%86%99%E8%AE%BA%E6%96%87-%E5%88%98%E6%88%90%E6%9E%97.pdf) - 刘成林
+* [“25년 전의 나에게” (대학원 신입생이 꼭 알아야할 연구실 생활의 팁)](http://an.kaist.ac.kr/~sbmoon/talk/2015/150329_GradSchoolOrientation.pdf) - Sue Moon
 
 
 <br/>
