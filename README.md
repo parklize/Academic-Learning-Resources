@@ -64,6 +64,7 @@ Nicole Kringos
 <br/>
 
 # How to develop your academic career
+* [How do you make a short CV?](https://theprofessorisin.com/2012/06/05/how-do-you-make-a-short-cv/) - Karen L. Kelsky
 * [How to Have a Bad Career in Research/Academia Pre-PhD and Post-PhD (including How to Give a Bad Talk)](https://www.youtube.com/watch?v=Pbdo-ozuOug) - EECS Colloquium - David Patterson
 * [From PhD to Professor: Advice for Landing Your First Academic Position](https://www.themuse.com/advice/from-phd-to-professor-advice-for-landing-your-first-academic-position) - Johanna Greeson
 * [How to write a killer cover letter for a postdoctoral application](https://www.asbmb.org/asbmb-today/careers/091713/writing-cover-letter-for-postdoctoral-application) - Bill Sullivan
