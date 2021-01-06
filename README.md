@@ -70,4 +70,9 @@ Nicole Kringos
 * [How to write a killer cover letter for a postdoctoral application](https://www.asbmb.org/asbmb-today/careers/091713/writing-cover-letter-for-postdoctoral-application) - Bill Sullivan
 * [Professorships: Academic Trajectory and Tips for Applicants](https://www.linkedin.com/pulse/professorships-academic-trajectory-tips-applicants-john-breslin/) - John Breslin
 
+<br/>
+
+# Project management
+* [How I Keep My Projects Organized](https://sebastianraschka.com/blog/2021/project-management.html)
+
 
