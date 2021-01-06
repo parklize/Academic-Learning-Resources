@@ -73,6 +73,6 @@ Nicole Kringos
 <br/>
 
 # Project management
-* [How I Keep My Projects Organized](https://sebastianraschka.com/blog/2021/project-management.html)
+* [How I Keep My Projects Organized](https://sebastianraschka.com/blog/2021/project-management.html) - Sebastian Raschka
 
 
