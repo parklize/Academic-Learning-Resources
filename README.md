@@ -53,6 +53,7 @@ Nicole Kringos
 <br/>
 
 # How to do research
+* [How to read a paper and career advice](https://www.youtube.com/watch?v=733m6qBH-jI&feature=youtu.be) - Andrew Ng Stanford CS230
 * [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [[Video]](https://www.youtube.com/watch?v=a1zDuOPkMSw) - Richard Hamming
 * [How to read a paper](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf) - Michael J. Hanson & Dylan J. McNamee
 * [Research Design Patterns](https://pg.ucsd.edu/research-design-patterns.htm) - - Philip Guo
