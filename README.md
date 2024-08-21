@@ -31,6 +31,7 @@ Nicole Kringos
 <br/>
 
 # How to write
+* [How to write an okay research paper](https://www.youtube.com/watch?v=qNlwVGxkG7Q&list=WL&index=6)
 * [Converting Undergraduate Projects into Research Papers](https://alisonenergy.com/images/Converting%20FYPs%20into%20Research%20Papers.pdf)
 * [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc) - Simon Peyton Jones
 * [How to get your paper accepted at IM/NOMS](https://www.scss.tcd.ie/Owen.Conlan/CS7062/3_HowToWriteAPaper2009-06-03-IM-How_to.pdf) - Aiko Pras
