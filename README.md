@@ -54,6 +54,7 @@ Nicole Kringos
 <br/>
 
 # How to do research
+* [Cohere for AI - Roads to Research: A Panel Conversation on Research Question Ideation](https://www.youtube.com/watch?v=wmCFxnG9-Iw)
 * [On Successful Research](https://avt.im/blog/on-successful-research/) - Alexander Terenin
 * [How to read a paper and career advice](https://www.youtube.com/watch?v=733m6qBH-jI&feature=youtu.be) - Andrew Ng Stanford CS230
 * [You and your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) [[Video]](https://www.youtube.com/watch?v=a1zDuOPkMSw) - Richard Hamming
